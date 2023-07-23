@@ -10,8 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Display a simple, customizable cookie policy notice to users, helping your website to comply withUS and EU cookie law and GDPR.
 
 == Description ==
-
-The Cookie Policy Notice plugin helps your website comply with the US and EU Cookie Law and GDPR by displaying a simple, customizable cookie policy notice to your users. The user can then agree to the use of cookies on your website, enabling you to comply with legal requirements. The notice can be easily customized to match your website's design.
+This plugin is hassle-free way to create and manage cookie notices on your WordPress website. Cookie Policy Notice by Boris Karo is here to make it as easy as pie. This powerful plugin provides you with a customizable dashboard within WordPress, where you can create a personalized cookie notice to ensure your website is compliant with data privacy regulations. The Cookie Policy Notice plugin helps your website comply with the US and EU Cookie Law and GDPR by displaying a simple, customizable cookie policy notice to your users. The user can then agree to the use of cookies on your website, enabling you to comply with legal requirements. The notice can be easily customized to match your website's design.
 
 == Installation ==
 
